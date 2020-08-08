@@ -1,5 +1,5 @@
 {
-  "name": "twitter-api-client",
+  "name": "@hoprnet/twitter-api-client",
   "version": "0.1.7",
   "description": "Node.js / JavaScript client for Twitter API",
   "main": "dist/index.js",
