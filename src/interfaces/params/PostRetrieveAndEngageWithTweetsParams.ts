@@ -98,7 +98,7 @@ export interface StatusesShowByIdParams {
   /**
   * The numerical ID of the desired Tweet.
   */
-  id: number;
+  id: string;
   /**
   * When set to either true , t or 1 , each Tweet returned in a timeline will include a user object including only the status authors numerical ID. Omit this parameter to receive the complete user object.
   */
